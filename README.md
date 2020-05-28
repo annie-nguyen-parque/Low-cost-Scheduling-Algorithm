@@ -1,9 +1,9 @@
-# Job Scheduling Algorithm with cheap total cost for Distrbuted Systems
+# Job Scheduling Algorithm with cheap total cost
 
 ﻿# Author: Le Thuy Hang Nguyen
 ﻿# Student ID: 44499159
 
-Demo Instruction
+# Demo Instruction
 
 - Make sure you make downloaded the simulator source file from GitHub
 https://github.com/sotiey511/Scheduling-Algorithm-with-cheap-total-cost
