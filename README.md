@@ -1,4 +1,4 @@
-# Job Scheduling Algorithm with cheap total cost
+# Low-cost Scheduling Algorithm
 
 ﻿# Author: Le Thuy Hang Nguyen
 ﻿# Student ID: 44499159
